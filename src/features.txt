@@ -4,5 +4,6 @@ Calling
 
 Messaging
 
-Internet
+internet
 
+checkout
